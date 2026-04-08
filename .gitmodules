@@ -1,0 +1,12 @@
+[submodule "Ambient"]
+	path = Ambient
+	url = git@github.com:kevzettler/Ambient.git
+	branch = main
+[submodule "thirdroom"]
+	path = thirdroom
+	url = git@github.com:kevzettler/thirdroom.git
+	branch = main
+[submodule "wingrivals"]
+	path = wingrivals
+	url = git@github.com:kevzettler/wingrivals.git
+	branch = master
