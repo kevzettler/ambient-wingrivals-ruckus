@@ -1,0 +1,3 @@
+SHELL=/bin/bash
+PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+17 4,16 * * * root /bin/bash /root/wingrivals-deploy/config/renew-certificate.sh >> /var/log/wingrivals-certificate-renewal.log 2>&1
